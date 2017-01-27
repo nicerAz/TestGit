@@ -1,1 +1,2 @@
 This is my first text at git
+my profession is my passion
